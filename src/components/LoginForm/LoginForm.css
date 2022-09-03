@@ -1,0 +1,22 @@
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login-form {
+  max-width: 300px;
+}
+.login-form-button {
+  width: 100%;
+}
+.login-icon {
+  margin-bottom: 2vh;
+
+  padding: 18px;
+  border-radius: 50%;
+  background: rgb(0, 21, 41);
+
+  font-size: 64px;
+  color: #1890ff;
+}
