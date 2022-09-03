@@ -1,0 +1,26 @@
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.register-form {
+  max-width: 300px;
+}
+.ant-form-item-label {
+  padding: 0 !important;
+}
+.register-form-button {
+  width: 100%;
+  margin-top: 10px;
+}
+.register-icon {
+  margin-bottom: 2vh;
+
+  padding: 18px;
+  border-radius: 50%;
+  background: rgb(0, 21, 41);
+
+  font-size: 64px;
+  color: #1890ff;
+}
